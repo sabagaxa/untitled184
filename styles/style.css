@@ -258,14 +258,14 @@
 
 @media screen and (max-width: 650px) {
     .sec-1 {
-        height: 1150px;
+        height: 760px;
         overflow: hidden;
     }
     .wrapper {
         display: flex;
         flex-direction: column;
-        gap: 50px;
-        height: 70vh;
+        gap: 300px;
+        height: 100vh;
         width: 310px;
     }
     .sec-1-div-1 {
@@ -278,7 +278,7 @@
     }
     .sec-1-img-1 {
         position: relative;
-        top: 380px;
+        top: 80px;
     }
     .sec-1-had-2 {
         width: 343px;
